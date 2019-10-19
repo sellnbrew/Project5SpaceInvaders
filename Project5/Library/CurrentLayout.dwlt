@@ -336,19 +336,19 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets
+    - Assets/Sprites
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets
+  - Assets/Sprites
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\CPSC_courses\Unity\Project5SpaceInvaders\Project5
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 72090000
-    m_LastClickedID: 2418
+    m_SelectedIDs: 600a0000
+    m_LastClickedID: 2656
     m_ExpandedIDs: 000000007209000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -496,7 +496,7 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 94280000
+      m_SelectedIDs: 
       m_LastClickedID: 0
       m_ExpandedIDs: d6fbffff
       m_RenameOverlay:
